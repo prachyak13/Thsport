@@ -3,4 +3,5 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=22000000
 #http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776199&extension=m3u8
 #http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186602&extension=m3u8
-http://1.ge-pro.cfd/live/Emeka20252025/fwazza47nd/1776199.m3u8
+#http://1.ge-pro.cfd/live/Emeka20252025/fwazza47nd/1776199.m3u8
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:0C:C0:CB&stream=115538&extension=m3u8
